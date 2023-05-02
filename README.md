@@ -1,6 +1,6 @@
 # expense_planner
 
-A new Flutter project.
+The Expense Planner App is a personal finance management tool built using Flutter. The app helps users keep track of their expenses of the last seven days and provides insights into their spending habits.
 
 ## Getting Started
 
